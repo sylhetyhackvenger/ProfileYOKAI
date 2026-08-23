@@ -231,7 +231,13 @@ Cache Duration Configurable (1-24h)
 5. Temporal Analysis - Track growth and engagement velocity
 6. Multi-Export Format - Integration with various security tools
 
----
+<div align="center">
+
+<img src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif"
+     width="100%"
+     alt="Demon Slayer animation">
+
+</div>
 
 📚 Professional Applications
 
