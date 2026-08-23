@@ -2,11 +2,31 @@
 
 A Gray Hat Cybersecurity Tool for Wattpad User Information Gathering, Social Engineering Assessment, and Digital Footprint Analysis
 
-https://img.shields.io/badge/Python-3.8%2B-blue.svg
-https://img.shields.io/badge/License-MIT-green.svg
-https://img.shields.io/badge/Security-Gray%20Hat-orange.svg
-https://img.shields.io/badge/OSINT-Powerful-red.svg
+<p align="center">
 
+  <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-00C853?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
+  <img src="https://img.shields.io/badge/OSINT-Framework-7B1FA2?style=for-the-badge&logo=matrix&logoColor=white" alt="OSINT">
+  <img src="https://img.shields.io/badge/Security-Research-FF6F00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Security Research">
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/github/stars/sylhetyhackvenger/ProfileYOKAI?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/sylhetyhackvenger/ProfileYOKAI?style=for-the-badge&logo=github&label=Forks" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/issues/sylhetyhackvenger/ProfileYOKAI?style=for-the-badge&logo=github&label=Issues" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/last-commit/sylhetyhackvenger/ProfileYOKAI?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last Commit">
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/github/repo-size/sylhetyhackvenger/ProfileYOKAI?style=for-the-badge&logo=github&label=Repo%20Size" alt="Repository Size">
+  <img src="https://img.shields.io/github/languages/top/sylhetyhackvenger/ProfileYOKAI?style=for-the-badge&logo=python&label=Top%20Language" alt="Top Language">
+  <img src="https://img.shields.io/github/commit-activity/m/sylhetyhackvenger/ProfileYOKAI?style=for-the-badge&logo=github&label=Activity" alt="Commit Activity">
+
+</p>
 ---
 
 ⚡ What is Profile Yokai?
