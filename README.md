@@ -1,4 +1,4 @@
-# Profile Yokai - Advanced Wattpad Intelligence & OSINT Framework
+# Profile Yokai - Advanced Wattpad Scraper & OSINT Framework
 
 A Gray Hat Cybersecurity Tool for Wattpad User Information Gathering, Social Engineering Assessment, and Digital Footprint Analysis
 
