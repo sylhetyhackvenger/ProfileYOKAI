@@ -102,10 +102,10 @@ In today's interconnected digital landscape, understanding social media ecosyste
 
 ```bash
 # Clone the repository
-git clone https://github.com/THE-ERROR808/profile-yokai.git
+git clone https://github.com/THE-ERROR808/ProfileYOKAI
 
 # Navigate to the directory
-cd profile-yokai
+cd ProfileYOKAI
 
 # Install dependencies
 pip install -r requirements.txt
