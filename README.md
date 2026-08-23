@@ -1,4 +1,7 @@
 # Profile Yokai - Advanced Wattpad Scraper & OSINT Framework
+<p align="center">
+  <img src="./assets/1.png" alt="ProfileYOKAI Terminal Output" width="100%">
+</p>
 
 A Gray Hat Cybersecurity Tool for Wattpad User Information Gathering, Social Engineering Assessment, and Digital Footprint Analysis
 
@@ -110,6 +113,9 @@ pip install -r requirements.txt
 # Run Profile Yokai
 python3 profile-yokai.py
 ```
+<p align="center">
+  <img src="./assets/2.png" alt="ProfileYOKAI Wattpad Image Discovery" width="100%">
+</p>
 
 ---
 
